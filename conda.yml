@@ -1,0 +1,5 @@
+name: pocs
+dependencies:
+  - python=3.9
+  - pandas
+  - jupyter
